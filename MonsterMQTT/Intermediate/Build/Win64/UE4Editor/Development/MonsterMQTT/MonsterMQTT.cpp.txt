@@ -1,0 +1,2 @@
+E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Development\MonsterMQTT\Definitions.MonsterMQTT.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Public\MonsterMQTT.h

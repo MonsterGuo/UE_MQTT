@@ -1,0 +1,56 @@
+E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Development\MonsterMQTT\Definitions.MonsterMQTT.h
+E:/MqttBugfix2/Plugins/MonsterMQTT/Source/MonsterMQTT/Private/MqttBPLibrary.cpp
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Public\MqttBPLibrary.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Public\Interface/MqttClientInterface.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Public\Entities/MqttMessage.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Inc\MonsterMQTT\MqttMessage.generated.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Public\Entities/MqttConnectionData.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Inc\MonsterMQTT\MqttConnectionData.generated.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Public\Entities/MqttClientConfig.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Inc\MonsterMQTT\MqttClientConfig.generated.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Inc\MonsterMQTT\MqttClientInterface.generated.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Inc\MonsterMQTT\MqttBPLibrary.generated.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Private\Windows/MqttClient.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Private\MqttClientBase.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Inc\MonsterMQTT\MqttClientBase.generated.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Inc\MonsterMQTT\MqttClient.generated.h
+E:/MqttBugfix2/Plugins/MonsterMQTT/Source/MonsterMQTT/Private/MqttClientBase.cpp
+E:/MqttBugfix2/Plugins/MonsterMQTT/Source/MonsterMQTT/Private/MQTTManager.cpp
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Public\MQTTManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\JsonUtilities\Public\JsonObjectConverter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\JsonUtilities\Public\JsonObjectWrapper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities\JsonObjectWrapper.generated.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Inc\MonsterMQTT\MQTTManager.generated.h
+E:/MqttBugfix2/Plugins/MonsterMQTT/Source/MonsterMQTT/Private/MqttModules.cpp
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Public\IMqttModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+E:/MqttBugfix2/Plugins/MonsterMQTT/Source/MonsterMQTT/Private/Windows/MqttClient.cpp
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Private\Windows\MqttRunnable.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Private\Windows\MqttTask.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\queue
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\deque
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Private\Windows\Utils/StringUtils.h
+E:/MqttBugfix2/Plugins/MonsterMQTT/Source/MonsterMQTT/Private/Windows/MqttClientImpl.cpp
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\MonsterMQTT\Private\Windows\MqttClientImpl.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\ThirdParty\mosquitto\include\mosquittopp.h
+E:\MqttBugfix2\Plugins\MonsterMQTT\Source\ThirdParty\mosquitto\include\mosquitto.h
+E:/MqttBugfix2/Plugins/MonsterMQTT/Source/MonsterMQTT/Private/Windows/MqttRunnable.cpp
+E:/MqttBugfix2/Plugins/MonsterMQTT/Source/MonsterMQTT/Private/Windows/MqttTask.cpp
+E:/MqttBugfix2/Plugins/MonsterMQTT/Source/MonsterMQTT/Private/Windows/Utils/StringUtils.cpp

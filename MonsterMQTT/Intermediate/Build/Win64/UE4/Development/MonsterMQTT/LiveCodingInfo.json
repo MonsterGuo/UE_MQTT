@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MonsterMQTT.cpp.obj": [
+			"MqttBPLibrary.cpp.obj",
+			"MqttClientBase.cpp.obj",
+			"MqttModules.cpp.obj",
+			"MqttClient.cpp.obj",
+			"MqttClientImpl.cpp.obj",
+			"MqttRunnable.cpp.obj",
+			"MqttTask.cpp.obj",
+			"StringUtils.cpp.obj"
+		],
+		"Module.MonsterMQTT.gen.cpp.obj": [
+			"MonsterMQTT.init.gen.cpp.obj",
+			"MqttBPLibrary.gen.cpp.obj",
+			"MqttClient.gen.cpp.obj",
+			"MqttClientBase.gen.cpp.obj",
+			"MqttClientConfig.gen.cpp.obj",
+			"MqttClientInterface.gen.cpp.obj",
+			"MqttConnectionData.gen.cpp.obj",
+			"MqttMessage.gen.cpp.obj"
+		]
+	}
+}

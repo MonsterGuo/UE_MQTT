@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MonsterMQTT.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\MqttBugfix2\Intermediate\Build\Win64\MqttBugfix2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Development\MonsterMQTT\MonsterMQTT.cpp.obj"
+"E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Development\MonsterMQTT\Default.rc2.res"
+/OUT:"E:\MqttBugfix2\Plugins\MonsterMQTT\Intermediate\Build\Win64\UE4Editor\Development\MonsterMQTT\UE4Editor-MonsterMQTT.lib"
