@@ -4,9 +4,9 @@ An Unreal Engine4/5 MQTT Plugins
 # 插件的安装与使用
 
 # 启用插件
-1.下载好插件，然后解压压缩包,在项目下新建“Plugins”文件夹，将插件拷贝进去
-2.启用插件（Edit->Plugins)
-.<img src="https://user-images.githubusercontent.com/39860733/225483825-7c622c7f-941e-486d-b3dc-57c20aaaa913.png" width="800"/>
+1.下载好插件，然后解压压缩包,在项目下新建“Plugins”文件夹，将插件拷贝进去  
+2.启用插件（Edit->Plugins)  
+<img src="https://user-images.githubusercontent.com/39860733/225483825-7c622c7f-941e-486d-b3dc-57c20aaaa913.png" width="800"/>
 
 # 插件的内容
 1. 插件包含的节点  
