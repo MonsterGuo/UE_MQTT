@@ -1,6 +1,8 @@
 # MQTT
-An Unreal Engine4/5 MQTT Plugins
+An Unreal Engine4/5 MQTT Plugins  
 Fork:https://github.com/NinevaStudios/mqtt-utilities-unreal
+
+修复问题： 打包后在另一台主机上使用时将报错的问题。
 # 插件的安装与使用
 
 # 启用插件
